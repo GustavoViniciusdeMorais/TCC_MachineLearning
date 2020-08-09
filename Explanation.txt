@@ -1,0 +1,8 @@
+The included data file contains details about “leads”, where a lead is a person who wants to take up a course 
+with “SomeSchool”, a college. Every row contains information about one lead. 
+Those leads with “Closed” in the Lead Stage column are the people who have actually paid for the course.
+
+The purpose of the exercise is to determine which leads are more likely to close. 
+A score should be assigned to each lead, with the possible values of “High”, “Medium” and “Low”, where “High” 
+means that the lead is most likely to pay, and “Low” means least likely.
+
